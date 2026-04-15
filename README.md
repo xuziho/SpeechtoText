@@ -2,9 +2,9 @@
 
 一个运行在本机的异步转写服务，封装你本地的 Qwen3-ASR OpenAI-compatible 接口。
 
-> Disclaimer
+> 免责声明
 >
-> This project was built with substantial AI assistance. The repository owner is not a professional software engineer, so the implementation may still contain rough edges, incorrect assumptions, or places that need further review before production use.
+> 本项目在较大程度上借助了 AI 辅助完成。仓库维护者并非专业软件工程师，因此项目实现中可能仍存在粗糙之处、错误假设或尚未充分验证的问题。在用于生产环境或重要场景前，请自行审查、测试并确认其适用性。
 
 项目当前只负责“转写层”：
 
