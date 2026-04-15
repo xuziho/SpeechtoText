@@ -2,6 +2,10 @@
 
 一个运行在本机的异步转写服务，封装你本地的 Qwen3-ASR OpenAI-compatible 接口。
 
+> Disclaimer
+>
+> This project was built with substantial AI assistance. The repository owner is not a professional software engineer, so the implementation may still contain rough edges, incorrect assumptions, or places that need further review before production use.
+
 项目当前只负责“转写层”：
 
 - 接收本地音频 / 视频文件
